@@ -1,0 +1,20 @@
+{
+  "name": "be-communication-and-dom",
+  "version": "1.0.0",
+  "description": "Homework from fourth session of Fincon Reply Frontend Academy 2026",
+  "homepage": "https://github.com/Fincon-Reply-Poland/be-communication-and-dom#readme",
+  "bugs": {
+    "url": "https://github.com/Fincon-Reply-Poland/be-communication-and-dom/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fincon-Reply-Poland/be-communication-and-dom.git"
+  },
+  "license": "ISC",
+  "author": "Karolina Gryga, Patrycja Cieśla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
